@@ -69,24 +69,6 @@ Disfruto enfrentar nuevos desafíos técnicos y colaborar con equipos multidisci
 <tr>
 <td width="50%" align="center">
 
-### HuanSys
-<img src="Huansys-proyecto1.webp" alt="HuanSys" width="100%"/>
-
-Sistema web para gestionar pagos de limpieza pública municipal. Incluye administración, registro de pagos y dashboard con reportes.
-
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-</p>
-
-[![Código](https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TadashiDevs)
-[![WEB](https://img.shields.io/badge/WEB-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://huansys.tadashito.live/)
-
-</td>
-<td width="50%" align="center">
-
 ### NomiSys
 <img src="Nomisys-proyecto2.webp" alt="NomiSys" width="100%"/>
 

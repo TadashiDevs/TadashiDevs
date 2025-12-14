@@ -89,9 +89,9 @@ Sistema web para gestionar nóminas y planillas. Incluye cálculo de sueldos, de
 <td width="50%" align="center">
 
 ### Próximamente
-<img src="https://via.placeholder.com/600x400/1a1a2e/00C7B7?text=Proyecto+en+Desarrollo" alt="Próximo Proyecto" width="100%"/>
+<img src="https://via.placeholder.com/800x600/0f172a/00C7B7?text=Coming+Soon" alt="Próximo Proyecto" width="100%"/>
 
-
+Nuevo proyecto en desarrollo. ¡Pronto disponible!
 
 <p>
   <img src="https://img.shields.io/badge/Coming-Soon-00C7B7?style=flat-square" alt="Coming Soon"/>

@@ -107,7 +107,7 @@ Sistema web para gestionar nóminas y planillas. Incluye cálculo de sueldos, de
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="TadashiDevs streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TadashiDevs&theme=radical&hide_border=true" /> 
       </td>
       <td width="50%" align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TadashiDevs&theme=radical&hide_border=true&langs_count=10&layout=compact&custom_title=My%20Programming%20Languages"/>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TadashiDevs&theme=radical&hide_border=true&langs_count=10&layout=compact&custom_title=My%20Programming%20Languages&include_all_commits=true&count_private=true&exclude_repo=TadashiDevs"/>
       </td>
     </tr>
   </table>

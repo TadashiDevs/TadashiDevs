@@ -24,7 +24,7 @@ Disfruto enfrentar nuevos desafíos técnicos y colaborar con equipos multidisci
 
 ---
 
-## �️ Skills
+## 💎 Skills
 
 ### Front-End Development
 <p>
@@ -69,8 +69,8 @@ Disfruto enfrentar nuevos desafíos técnicos y colaborar con equipos multidisci
 <tr>
 <td width="50%" align="center">
 
-### 🏢 HuanSys
-<img src="https://github.com/TadashiDevs/TadashiDevs/assets/placeholder-huansys.png" alt="HuanSys" width="100%"/>
+### HuanSys
+<img src="huansys.webp" alt="HuanSys" width="100%"/>
 
 Sistema web para gestionar pagos de limpieza pública municipal. Incluye administración, registro de pagos y dashboard con reportes.
 
@@ -82,13 +82,13 @@ Sistema web para gestionar pagos de limpieza pública municipal. Incluye adminis
 </p>
 
 [![Código](https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TadashiDevs)
-[![Demo](https://img.shields.io/badge/Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/TadashiDevs)
+[![WEB](https://img.shields.io/badge/WEB-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://huansys.tadashito.live/)
 
 </td>
 <td width="50%" align="center">
 
-### 💼 NomiSys
-<img src="https://github.com/TadashiDevs/TadashiDevs/assets/placeholder-nomisys.png" alt="NomiSys" width="100%"/>
+### NomiSys
+<img src="nomisys.webp" alt="NomiSys" width="100%"/>
 
 Sistema web para gestionar nóminas y planillas. Incluye cálculo de sueldos, deducciones, contratos laborales y generación de boletas PDF.
 
@@ -100,7 +100,7 @@ Sistema web para gestionar nóminas y planillas. Incluye cálculo de sueldos, de
 </p>
 
 [![Código](https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TadashiDevs)
-[![Demo](https://img.shields.io/badge/Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/TadashiDevs)
+[![WEB](https://img.shields.io/badge/WEB-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nomisys.tadashito.live/)
 
 </td>
 </tr>
@@ -110,7 +110,7 @@ Sistema web para gestionar nóminas y planillas. Incluye cálculo de sueldos, de
 
 ---
 
-## � GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <table align="center">
@@ -121,17 +121,11 @@ Sistema web para gestionar nóminas y planillas. Incluye cálculo de sueldos, de
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="TadashiDevs streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TadashiDevs&theme=radical&hide_border=true" /> 
       </td>
       <td width="50%" align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TadashiDevs&theme=radical&hide_border=true&langs_count=10&layout=compact"/>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TadashiDevs&theme=radical&hide_border=true&langs_count=10&layout=compact&custom_title=My%20Programming%20Languages"/>
       </td>
     </tr>
   </table>
 </p>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="98%" src="https://github-profile-trophy.vercel.app/?username=TadashiDevs&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true&no-frame=true" alt="Trophy" />
-  </a>
-</div>
 
 ---
 
@@ -143,6 +137,7 @@ Sistema web para gestionar nóminas y planillas. Incluye cálculo de sueldos, de
   
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/tadashi.dev_)
   [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/JfbBdv97tM)
+  [![rmauriciob15@gmail.com](https://img.shields.io/badge/rmauriciob15@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rmauriciob15@gmail.com)
   
   <img src="https://komarev.com/ghpvc/?username=TadashiDevs&style=for-the-badge&color=blueviolet" alt="Profile views"/>
   

@@ -81,7 +81,7 @@ Sistema web para gestionar nóminas y planillas. Incluye cálculo de sueldos, de
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 </p>
 
-[![Código](https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TadashiDevs)
+[![Código](https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TadashiDevs/NomiSys)
 [![WEB](https://img.shields.io/badge/WEB-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nomisys.tadashito.live/)
 
 </td>

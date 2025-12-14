@@ -70,7 +70,7 @@ Disfruto enfrentar nuevos desafíos técnicos y colaborar con equipos multidisci
 <td width="50%" align="center">
 
 ### HuanSys
-<img src="huansys.webp" alt="HuanSys" width="100%"/>
+<img src="Huansys-proyecto1.webp" alt="HuanSys" width="100%"/>
 
 Sistema web para gestionar pagos de limpieza pública municipal. Incluye administración, registro de pagos y dashboard con reportes.
 
@@ -88,7 +88,7 @@ Sistema web para gestionar pagos de limpieza pública municipal. Incluye adminis
 <td width="50%" align="center">
 
 ### NomiSys
-<img src="nomisys.webp" alt="NomiSys" width="100%"/>
+<img src="Nomisys-proyecto2.webp" alt="NomiSys" width="100%"/>
 
 Sistema web para gestionar nóminas y planillas. Incluye cálculo de sueldos, deducciones, contratos laborales y generación de boletas PDF.
 

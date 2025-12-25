@@ -102,9 +102,9 @@ Sistema web para gestionar nóminas y planillas. Incluye cálculo de sueldos, de
   <table align="center">
     <tr border="none">
       <td width="50%" align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=TadashiDevs&theme=radical&show_icons=true&count_private=true&hide_border=true" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=TadashiDevs&theme=radical&show_icons=true&count_private=true&hide_border=true" alt="TadashiDevs GitHub Stats" />
         <br><br>
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="TadashiDevs streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TadashiDevs&theme=radical&hide_border=true" /> 
+        <img alt="TadashiDevs streak" src="https://streak-stats.demolab.com/?user=TadashiDevs&theme=radical&hide_border=true" /> 
       </td>
       <td width="50%" align="center">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TadashiDevs&theme=radical&hide_border=true&langs_count=10&layout=compact&custom_title=My%20Programming%20Languages&include_all_commits=true&count_private=true&exclude_repo=TadashiDevs"/>

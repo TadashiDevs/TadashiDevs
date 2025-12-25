@@ -119,4 +119,5 @@ Sistema web para gestionar nóminas y planillas. Incluye cálculo de sueldos, de
   
   <img src="https://komarev.com/ghpvc/?username=TadashiDevs&style=for-the-badge&color=blueviolet" alt="Profile views"/>
   
+  
 </div>

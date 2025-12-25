@@ -96,12 +96,14 @@ Sistema web para gestionar nóminas y planillas. Incluye cálculo de sueldos, de
 
 ---
 
-## ⚙️⚙️ &nbsp;GitHub Analytics
+## ⚙️GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/TadashiDevs">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TadashiDevs&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TadashiDevs&layout=compact&langs_count=8&theme=algolia"/>
+    <img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TadashiDevs&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/TadashiDevs">
+    <img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TadashiDevs&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 
@@ -118,6 +120,5 @@ Sistema web para gestionar nóminas y planillas. Incluye cálculo de sueldos, de
   [![rmauriciob15@gmail.com](https://img.shields.io/badge/rmauriciob15@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rmauriciob15@gmail.com)
   
   <img src="https://komarev.com/ghpvc/?username=TadashiDevs&style=for-the-badge&color=blueviolet" alt="Profile views"/>
-  
   
 </div>

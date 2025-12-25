@@ -98,20 +98,12 @@ Sistema web para gestionar nóminas y planillas. Incluye cálculo de sueldos, de
 
 ## ⚙️GitHub Analytics
 
-<table border="none">
-  <tr border="none">
-    <td width="50%" border="none">
-      <a href="https://github.com/TadashiDevs">
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TadashiDevs&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-      </a>
-    </td>
-    <td width="50%" border="none">
-      <a href="https://github.com/TadashiDevs">
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TadashiDevs&layout=compact&langs_count=8&theme=algolia"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+<a href="https://github.com/TadashiDevs">
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TadashiDevs&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TadashiDevs&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 ---
 
